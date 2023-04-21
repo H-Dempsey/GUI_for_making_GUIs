@@ -6,7 +6,8 @@ Choose how many types of items you want. <br>
 <img src="https://user-images.githubusercontent.com/101311642/233553975-9de30c16-5775-4f0e-9119-c3ac4943555c.png" width="250">
 
 Choose the display text, default value, data type and variable you want this result to be saved as. <br>
-![image](https://user-images.githubusercontent.com/101311642/233552760-bc311142-9275-4a34-9bd5-448f2bb2a924.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/101311642/233552760-bc311142-9275-4a34-9bd5-448f2bb2a924.png">
 
 Preview the GUI you just made. <br>
 <p align="center">
