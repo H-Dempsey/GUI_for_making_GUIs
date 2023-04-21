@@ -8,10 +8,10 @@ Choose the display text, default value, data type and variable you want this res
 ![image](https://user-images.githubusercontent.com/101311642/233552760-bc311142-9275-4a34-9bd5-448f2bb2a924.png)
 
 Preview the GUI you just made. <br>
-![image](https://user-images.githubusercontent.com/101311642/233552780-e84c55ab-03a1-4f9b-bc09-1fe8a2c6152e.png)
+![image](https://user-images.githubusercontent.com/101311642/233553591-a3a431e4-78f1-4230-b29b-8caad8e6f5f1.png)
 
 Copy and paste the result into another a python script. <br>
-![image](https://user-images.githubusercontent.com/101311642/233552828-2e2fc320-5624-4760-bd2a-db283f264426.png)
+![image](https://user-images.githubusercontent.com/101311642/233553613-7fedca63-c478-4820-a3bb-5e1c2978f730.png)
 
 Enjoy your new GUI! <br>
-![image](https://user-images.githubusercontent.com/101311642/233552858-896d1920-508b-4a23-958c-7a67ea864329.png)
+![image](https://user-images.githubusercontent.com/101311642/233553633-2d2e47ed-0427-4c70-bdd0-17771f4fe9a1.png)
